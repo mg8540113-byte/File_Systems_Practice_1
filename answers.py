@@ -6,5 +6,6 @@ print(os.getcwd())
 
 # answers 2
 
+print(os.listdir())
 
 
